@@ -3,3 +3,4 @@
 .DS_store
 .gradio
 venv
+vector_db
